@@ -45,6 +45,7 @@ declare module 'vue' {
     SectionBorder: typeof import('./components/common/SectionBorder.vue')['default']
     SectionTitle: typeof import('./components/common/SectionTitle.vue')['default']
     Sidebar: typeof import('./components/dashboard/Sidebar.vue')['default']
+    SidebarComponent: typeof import('./components/dashboard/SidebarComponent.vue')['default']
     TextInput: typeof import('./components/common/TextInput.vue')['default']
     TheWelcome: typeof import('./components/TheWelcome.vue')['default']
     WelcomeItem: typeof import('./components/WelcomeItem.vue')['default']
